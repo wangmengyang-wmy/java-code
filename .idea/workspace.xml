@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb8a6c20-2b48-453f-a58b-cca198034a3e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/maven" />
+        <option name="userSettingsFile" value="$USER_HOME$/maven/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1mlfdmbt7ofxr1G1xUZj5k03UWH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/SensorsCode/support/aopeng/aopeng_etl" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb8a6c20-2b48-453f-a58b-cca198034a3e" name="Default Changelist" comment="" />
+      <created>1610073187828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610073187828</updated>
+      <workItem from="1610073191090" duration="1174000" />
+      <workItem from="1610074654684" duration="16000" />
+      <workItem from="1610074705398" duration="93000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1257" y="92" key="#AssertExampleOne" timestamp="1610074199362">
+      <screen x="-1920" y="-125" width="1920" height="1080" />
+    </state>
+    <state x="-1257" y="92" key="#AssertExampleOne/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610074199362" />
+    <state x="-1257" y="92" key="#AssertExampleTwo" timestamp="1610074365845">
+      <screen x="-1920" y="-125" width="1920" height="1080" />
+    </state>
+    <state x="-1257" y="92" key="#AssertExampleTwo/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610074365845" />
+    <state x="-1360" y="80" key="#Project_Structure" timestamp="1610073217272">
+      <screen x="-1920" y="-125" width="1920" height="1080" />
+    </state>
+    <state x="-1360" y="80" key="#Project_Structure/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610073217272" />
+    <state x="-1496" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610074719763">
+      <screen x="-1920" y="-125" width="1920" height="1080" />
+    </state>
+    <state x="-1496" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610074719763" />
+    <state width="1878" height="393" key="GridCell.Tab.0.bottom" timestamp="1610074619474">
+      <screen x="-1920" y="-125" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="393" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610074619474" />
+    <state width="1878" height="393" key="GridCell.Tab.0.center" timestamp="1610074619472">
+      <screen x="-1920" y="-125" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="393" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610074619472" />
+    <state width="1878" height="393" key="GridCell.Tab.0.left" timestamp="1610074619331">
+      <screen x="-1920" y="-125" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="393" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610074619331" />
+    <state width="1878" height="393" key="GridCell.Tab.0.right" timestamp="1610074619473">
+      <screen x="-1920" y="-125" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="393" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610074619473" />
+    <state x="-1472" y="-4" key="SettingsEditor" timestamp="1610074797566">
+      <screen x="-1920" y="-125" width="1920" height="1080" />
+    </state>
+    <state x="-1472" y="-4" key="SettingsEditor/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610074777388" />
+    <state x="-1472" y="-4" key="SettingsEditor/0.23.1440.877/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610074797566" />
+    <state x="-1530" y="140" key="new project wizard" timestamp="1610074773255">
+      <screen x="-1920" y="-125" width="1920" height="1080" />
+    </state>
+    <state x="-1530" y="140" key="new project wizard/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610074773255" />
+  </component>
+</project>
