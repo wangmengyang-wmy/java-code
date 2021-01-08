@@ -5,4 +5,5 @@
 断言可以有两种形式<br/>
 1.assert Expression1<br/>
 2.assert Expression1:Expression2<br/>
-其中Expression1应该总是一个布尔值，Expression2是断言失败时输出的失败消息的字符串(类似抛出异常时的异常信息)。如果Expression1为假，则抛出一个 AssertionError(Expression2作为这个错误的提示消息)，这是一个错误，而不是一个异常，也就是说是一个不可控制异常（unchecked Exception),AssertionError由于是错误，所以可以不捕获，但不推荐这样做，因为那样会使你的系统进入不稳定状态。
+其中Expression1应该总是一个布尔值，Expression2是断言失败时输出的失败消息的字符串(类似抛出异常时的异常信息)。如果Expression1为假，则抛出一个 AssertionError(Expression2作为这个错误的提示消息)，这是一个错误，而不是一个异常，也就是说是一个不可控制异常（unchecked Exception),AssertionError由于是错误，所以可以不捕获，但不推荐这样做，因为那样会使你的系统进入不稳定状态。<br/>
+NOTE:断言功能是用于软件的开发和测试的，也就是说，删去断言的那部分语句后，你程序的结构和运行不应该有任何改变，千万不要把断言当成程序中的一个功能来使用
