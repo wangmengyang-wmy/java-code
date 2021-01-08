@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/csv/csv.iml" filepath="$PROJECT_DIR$/csv/csv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/基础数据类型/基础数据类型.iml" filepath="$PROJECT_DIR$/基础数据类型/基础数据类型.iml" />
       <module fileurl="file://$PROJECT_DIR$/断言assert/断言assert.iml" filepath="$PROJECT_DIR$/断言assert/断言assert.iml" />
     </modules>
   </component>
