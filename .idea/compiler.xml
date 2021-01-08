@@ -9,6 +9,7 @@
         <module name="断言assert" />
         <module name="csv" />
         <module name="基础数据类型" />
+        <module name="继承" />
         <module name="枚举" />
       </profile>
     </annotationProcessing>
@@ -17,6 +18,7 @@
       <module name="基础数据类型" target="1.5" />
       <module name="断言assert" target="1.5" />
       <module name="枚举" target="1.8" />
+      <module name="继承" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
