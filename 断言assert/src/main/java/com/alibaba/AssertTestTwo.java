@@ -1,5 +1,8 @@
 package com.alibaba;
 
+/**
+ * 捕获断言的错误信息
+ */
 public class AssertTestTwo {
     public static void main(String[] args) {
         AssertTestTwo at = new AssertTestTwo();
