@@ -6,15 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="断言assert" />
-        <module name="csv" />
         <module name="基础数据类型" />
-        <module name="继承" />
         <module name="枚举" />
+        <module name="lombok" />
+        <module name="断言assert" />
+        <module name="json" />
+        <module name="继承" />
+        <module name="csv" />
+        <module name="io" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="csv" target="1.8" />
+      <module name="io" target="1.8" />
+      <module name="json" target="1.8" />
+      <module name="lombok" target="1.8" />
       <module name="基础数据类型" target="1.5" />
       <module name="断言assert" target="1.5" />
       <module name="枚举" target="1.8" />
