@@ -1,4 +1,4 @@
-package com.alibaba;
+package com.alibaba.json;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
@@ -7,7 +7,7 @@ import com.alibaba.fastjson.JSONObject;
 import java.io.*;
 import java.nio.charset.StandardCharsets;
 
-public class ALiJSONUtil {
+public class JsonUtil {
 
     /**
      * 将json对象写入到文件中
@@ -31,7 +31,6 @@ public class ALiJSONUtil {
      * @throws Exception 异常信息
      */
     public static void writeJsonArray(String jsonFilePath) throws Exception {
-
         OutputStreamWriter osw = new OutputStreamWriter(new FileOutputStream(jsonFilePath), StandardCharsets.UTF_8);
 
         JSONObject obj=new JSONObject();//创建JSONObject对象
@@ -92,9 +91,5 @@ public class ALiJSONUtil {
             e.printStackTrace();
         }
         return jsonStr;
-    }
-
-    public static void main(String[] args) throws Exception{
-        ALiJSONUtil.writeJsonArray("/Users/wangmengyang/wmy-repositories/java-code/json/src/json/array.json");
     }
 }

@@ -1,4 +1,4 @@
-package com.alibaba;
+package com.alibaba.service.jackson;
 
 import com.alibaba.entity.Person;
 import com.fasterxml.jackson.core.JsonProcessingException;

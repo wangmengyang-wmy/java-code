@@ -2,17 +2,18 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="基础数据类型" />
         <module name="枚举" />
-        <module name="lombok" />
+        <module name="csv" />
         <module name="断言assert" />
         <module name="json" />
         <module name="继承" />
-        <module name="csv" />
+        <module name="lombok" />
         <module name="io" />
       </profile>
     </annotationProcessing>
