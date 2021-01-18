@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb8a6c20-2b48-453f-a58b-cca198034a3e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io/io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/io/io.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/io/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/src/main/java/com/alibaba/ALiJSONUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/json/src/main/java/com/alibaba/service/fastjson/JsonUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/src/main/java/com/alibaba/JacksonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/json/src/main/java/com/alibaba/service/jackson/JacksonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/src/main/java/com/alibaba/JsonNodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/json/src/main/java/com/alibaba/service/jackson/JsonNodeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lombok/src/main/java/com/alibaba/lombok/ConstructorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/lombok/src/main/java/com/alibaba/lombok/ConstructorExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +56,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lombok/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -75,7 +69,7 @@
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -83,94 +77,79 @@
       <recent name="$PROJECT_DIR$/断言assert/src/main/java/com/alibaba" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.JsonNodeTest.test16">
-    <configuration name="JsonNodeTest.test12" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="json" />
+  <component name="RunManager" selected="Application.FileOutputStreamDemo">
+    <configuration name="BufferWriterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.characterstream.BufferWriterDemo" />
+      <module name="io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alibaba.service.jackson.*" />
+          <option name="PATTERN" value="com.alibaba.characterstream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.alibaba.service.jackson" />
-      <option name="MAIN_CLASS_NAME" value="com.alibaba.service.jackson.JsonNodeTest" />
-      <option name="METHOD_NAME" value="test12" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsonNodeTest.test13" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="json" />
+    <configuration name="BufferedReaderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.characterstream.BufferedReaderDemo" />
+      <module name="io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alibaba.service.jackson.*" />
+          <option name="PATTERN" value="com.alibaba.characterstream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.alibaba.service.jackson" />
-      <option name="MAIN_CLASS_NAME" value="com.alibaba.service.jackson.JsonNodeTest" />
-      <option name="METHOD_NAME" value="test13" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsonNodeTest.test14" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="json" />
+    <configuration name="FileInputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.bytestream.FileInputStreamDemo" />
+      <module name="io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alibaba.service.jackson.*" />
+          <option name="PATTERN" value="com.alibaba.bytestream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.alibaba.service.jackson" />
-      <option name="MAIN_CLASS_NAME" value="com.alibaba.service.jackson.JsonNodeTest" />
-      <option name="METHOD_NAME" value="test14" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsonNodeTest.test15" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="json" />
+    <configuration name="FileOutputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.bytestream.FileOutputStreamDemo" />
+      <module name="io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alibaba.service.jackson.*" />
+          <option name="PATTERN" value="com.alibaba.bytestream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.alibaba.service.jackson" />
-      <option name="MAIN_CLASS_NAME" value="com.alibaba.service.jackson.JsonNodeTest" />
-      <option name="METHOD_NAME" value="test15" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsonNodeTest.test16" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="json" />
+    <configuration name="FileReaderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.characterstream.FileReaderDemo" />
+      <module name="io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alibaba.service.jackson.*" />
+          <option name="PATTERN" value="com.alibaba.characterstream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.alibaba.service.jackson" />
-      <option name="MAIN_CLASS_NAME" value="com.alibaba.service.jackson.JsonNodeTest" />
-      <option name="METHOD_NAME" value="test16" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.JsonNodeTest.test16" />
-        <item itemvalue="JUnit.JsonNodeTest.test15" />
-        <item itemvalue="JUnit.JsonNodeTest.test14" />
-        <item itemvalue="JUnit.JsonNodeTest.test13" />
-        <item itemvalue="JUnit.JsonNodeTest.test12" />
+        <item itemvalue="Application.FileOutputStreamDemo" />
+        <item itemvalue="Application.FileInputStreamDemo" />
+        <item itemvalue="Application.BufferWriterDemo" />
+        <item itemvalue="Application.BufferedReaderDemo" />
+        <item itemvalue="Application.FileReaderDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +187,7 @@
       <workItem from="1610074705398" duration="16524000" />
       <workItem from="1610535380447" duration="366000" />
       <workItem from="1610621884851" duration="15374000" />
-      <workItem from="1610778030330" duration="2561000" />
+      <workItem from="1610778030330" duration="11997000" />
     </task>
     <servers />
   </component>
@@ -245,31 +224,31 @@
       <screen x="-1920" y="-125" width="1920" height="1080" />
     </state>
     <state x="-1201" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610098477877" />
-    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1610783303892">
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1610963465581">
       <screen x="-1920" y="-125" width="1920" height="1080" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610783303892" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610963465581" />
     <state width="1398" height="232" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1610371719982" />
     <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.23.1440.806/-1920.-102.1920.1057@-1920.-102.1920.1057" timestamp="1610706301307" />
     <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610767152093" />
-    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1610783303890">
+    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1610963465578">
       <screen x="-1920" y="-125" width="1920" height="1080" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610783303890" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610963465578" />
     <state width="1398" height="232" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1610371719827" />
     <state width="1878" height="290" key="GridCell.Tab.0.center/0.23.1440.806/-1920.-102.1920.1057@-1920.-102.1920.1057" timestamp="1610706301305" />
     <state width="1878" height="290" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610767152090" />
-    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1610783303888">
+    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1610963465576">
       <screen x="-1920" y="-125" width="1920" height="1080" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610783303888" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610963465576" />
     <state width="1398" height="232" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1610371719811" />
     <state width="1878" height="290" key="GridCell.Tab.0.left/0.23.1440.806/-1920.-102.1920.1057@-1920.-102.1920.1057" timestamp="1610706301304" />
     <state width="1878" height="290" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610767152089" />
-    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1610783303891">
+    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1610963465580">
       <screen x="-1920" y="-125" width="1920" height="1080" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610783303891" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610963465580" />
     <state width="1398" height="232" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1610371719980" />
     <state width="1878" height="290" key="GridCell.Tab.0.right/0.23.1440.806/-1920.-102.1920.1057@-1920.-102.1920.1057" timestamp="1610706301306" />
     <state width="1878" height="290" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610767152092" />
@@ -289,20 +268,24 @@
       <screen x="-1920" y="-125" width="1920" height="1080" />
     </state>
     <state width="1878" height="366" key="GridCell.Tab.1.right/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610778763458" />
-    <state x="-1472" y="-4" key="SettingsEditor" timestamp="1610764300921">
+    <state x="-1472" y="-4" key="SettingsEditor" timestamp="1610788343615">
       <screen x="-1920" y="-125" width="1920" height="1080" />
     </state>
-    <state x="-1472" y="-4" key="SettingsEditor/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610764300921" />
+    <state x="-1472" y="-4" key="SettingsEditor/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610788343614" />
     <state x="-1472" y="-4" key="SettingsEditor/0.23.1440.877/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610622081064" />
     <state x="-1267" y="247" key="com.intellij.ide.util.TipDialog" timestamp="1610621884747">
       <screen x="-1920" y="-125" width="1920" height="1080" />
     </state>
     <state x="-1267" y="247" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610621884747" />
-    <state x="-1530" y="140" key="new project wizard" timestamp="1610622060214">
+    <state x="-1222" y="175" key="extract.method.dialog" timestamp="1610963165665">
+      <screen x="-1920" y="-125" width="1920" height="1080" />
+    </state>
+    <state x="-1222" y="175" key="extract.method.dialog/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610963165665" />
+    <state x="-1530" y="140" key="new project wizard" timestamp="1610936638032">
       <screen x="-1920" y="-125" width="1920" height="1080" />
     </state>
     <state x="-1530" y="140" key="new project wizard/0.0.1440.900/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610095525529" />
-    <state x="-1530" y="140" key="new project wizard/0.23.1440.877/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610622060214" />
+    <state x="-1530" y="140" key="new project wizard/0.23.1440.877/-1920.-125.1920.1080@-1920.-125.1920.1080" timestamp="1610936638032" />
     <state x="-1295" y="116" width="670" height="676" key="search.everywhere.popup" timestamp="1610087233595">
       <screen x="-1920" y="-125" width="1920" height="1080" />
     </state>
